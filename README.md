@@ -18,7 +18,7 @@ Tämä päiväkirjasovellus mahdollistaa käyttäjän päivittäisten merkintöj
 ## Käytetyt teknologiat:
 
 - React Native
-- React Nagigation helpottaa sovelluksen näkymien välisiä siirtymiä.
+- React Navigation helpottaa sovelluksen näkymien välisiä siirtymiä.
 - AsyncStorage mahdollistaa päiväkirjamerkintöjen tallentamisen laitteen muistiin.
 - Axios auttaa sovellusta kommunikoimaan API:n kanssa.
 - DateTimePicker mahdollistaa päivämäärän valitsemisen merkintöjä tehdessä.
