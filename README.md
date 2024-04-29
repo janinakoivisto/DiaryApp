@@ -15,4 +15,12 @@ Tämä päiväkirjasovellus mahdollistaa käyttäjän päivittäisten merkintöj
 - Etusivu: Näyttää luettelon merkinnöistä päivämäärällä, lämpötilalla ja sääkuvakkeella.
 - Tiedot (Details): Näyttää päiväkirjamerkinnän täyden tekstin sekä lämpötilan ja sääkuvakkeen. Yksityiskohtaisiin tietoihin pääsee napauttamalla jotakin merkinnöistä.
 
+## Käytetyt teknologiat:
 
+- React Native
+- React Nagigation helpottaa sovelluksen näkymien välisiä siirtymiä.
+- AsyncStorage mahdollistaa päiväkirjamerkintöjen tallentamisen laitteen muistiin.
+- Axios auttaa sovellusta kommunikoimaan API:n kanssa.
+- DateTimePicker mahdollistaa päivämäärän valitsemisen merkintöjä tehdessä.
+
+- API jota projektissa on käytetty: https://open-meteo.com/en/docs
